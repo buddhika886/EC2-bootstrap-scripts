@@ -1,4 +1,4 @@
-# EC2-bootstraps-cripts
+# EC2-bootstrap Scripts
 Contains bootstrap scripts to kick start your AWS EC2 instance
 
 # How to run
